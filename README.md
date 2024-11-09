@@ -8,9 +8,49 @@ The design utilizes two magnets of like poles to create a dampened spring mechan
 
 Files for both a pre-supported version and an unsupported version have been provided for convenience.
 
+## BOM:
+<table>
+<tr>
+  <td>Part</td>
+  <td>Quantity</td>
+  <td>Link</td>
+</tr>
+<tr>
+  <td>6x3mm Magnets</td>
+  <td>4</td>
+  <td>https://www.amazon.com/FINDMAG-Magnets-Magnetic-Whiteboard-Refrigerator/dp/B08M3YP56J/</td>
+</tr>
+<tr>
+  <td>M3x10mm BHCS</td>
+  <td>4</td>
+  <td>https://www.amazon.com/uxcell-M3x10mm-Thread-Button-Socket/dp/B01AXUSPYO/</td>
+</tr>
+<tr>
+  <td>M3 Nuts</td>
+  <td>4</td>
+  <td>https://www.amazon.com/Uxcell-a16033100ux0563-Carbon-Steel-Hexagon/dp/B01IWUSDYY/</td>
+</tr>
+</table>
+
 ## Assembly
 
-### Insert Magnets
+### Insert magnets of same pole so that they oppose each other into the Latch and the Base as shown below:
 
-Insert magnets of same pole so that they oppose each other into the Latch and the Base as shown below:
-![Latch Magnets](images/Magnet-1.png)
+<img src="Images/Magnet-1.png" width="800"> 
+<img src="Images/Magnet-2.png" width="800">
+
+### Insert the Latch into the Base as shown below:
+
+<img src="Images/Latch 2 Base.PNG" width="800">
+
+### Place the Cover over the Base + Latch assembly from the previous step:
+
+<img src="Images/Cover 2 Base.PNG" width="800">
+
+### Bring the Receiver next to the Latch assembly as shown here:
+
+<img src="Images/Receiver 2 Base.PNG" width="800">
+
+### Insert 4x M3x10 into the locations shown below and fasten the parts as pictured to the printer frame using inserted M3 Nuts:
+
+<img src="Images/M3 screws.PNG" width="800">
