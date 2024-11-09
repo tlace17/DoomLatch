@@ -54,3 +54,11 @@ Files for both a pre-supported version and an unsupported version have been prov
 ### Insert 4x M3x10 into the locations shown below and fasten the parts as pictured to the printer frame using inserted M3 Nuts:
 
 <img src="Images/M3 screws.PNG" width="800">
+
+
+
+# Demo Of Latch :
+
+https://github.com/user-attachments/assets/b00e2c3e-3075-42ff-b94a-11ea75025f6f
+
+
