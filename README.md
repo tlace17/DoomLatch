@@ -61,4 +61,9 @@ Files for both a pre-supported version and an unsupported version have been prov
 
 https://github.com/user-attachments/assets/b00e2c3e-3075-42ff-b94a-11ea75025f6f
 
+Thanks to discord user CalvinHobbss for the video on DOOMicron:
+
+https://github.com/user-attachments/assets/82a59190-15ab-45e4-995e-967c930c8b57
+
+
 
