@@ -65,5 +65,5 @@ Thanks to discord user CalvinHobbss for the video on DOOMicron:
 
 https://github.com/user-attachments/assets/82a59190-15ab-45e4-995e-967c930c8b57
 
-
+[Join my Discord!](https://discord.gg/gRDr2ggNuM)
 
